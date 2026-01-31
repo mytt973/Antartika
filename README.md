@@ -1,10 +1,14 @@
-<p>voici un petit projet que j'ai réalisé au cour de ma 1er année de BTS. Pour un peut de contexte j'étais en télétravail et en cours on apprennais Java.
-<br>Depuis que j'ai su que l'on pouvais faire une interface graphique avec ce langage, j'ai décider de crée ce projet.</p>
+<p>Voici un petit projet que j'ai réalisé au cours de ma 1re année de BTS. Pour un peu de contexte, j'étais en télétravail et, en cours, nous apprenions le Java.
+  
+<br>Dès que j'ai su que l'on pouvait faire une interface graphique avec ce langage, j'ai décidé de créer ce projet.</p>
 
-<p>c'est un petit jeux de platforme retro type Mario, mais ce projet est rester que a sont 1er stade d'avencement. Je n'ai pas les droits d'auteurs sur les images</p>
+<p>C'est un petit jeu de plateforme rétro de type Mario, mais ce projet est resté à son premier stade d'avancement.</p>
 <br>
 <p>verstion </p>
-# Outils
-*JDK 21+*
+# Outils : JDK 21+
+<br>
 L'IDE,  j'ai travaillé avec Intellij IDEA.
-
+<details>
+  <summary>Informations sur les droits d'auteur</summary>
+ <small>Les images appartiennent à leurs propriétaires respectifs...</small>
+</details>
